@@ -1,0 +1,46 @@
+name: Weekly AI build-out brief
+
+on:
+  schedule:
+    # Mondays 10:17 UTC = 6:17am New York in summer, 5:17am in winter.
+    # GitHub may start scheduled runs a few minutes late.
+    - cron: "17 10 * * 1"
+  workflow_dispatch: {}  # "Run workflow" button for an on-demand issue
+
+permissions:
+  contents: write  # to commit the new brief back to the repo
+
+concurrency:
+  group: weekly-brief
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Fetch data, write brief, render
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
+          BRIEF_MODEL: ${{ vars.BRIEF_MODEL }}
+        run: python run_brief.py
+
+      - name: Commit the new issue
+        if: always()
+        run: |
+          git config user.name "weekly-brief-bot"
+          git config user.email "weekly-brief-bot@users.noreply.github.com"
+          git add briefs data site LATEST.md
+          git diff --cached --quiet && echo "Nothing to commit" && exit 0
+          git commit -m "Brief $(date -u +%Y-%m-%d)"
+          git push
