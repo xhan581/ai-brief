@@ -1,0 +1,104 @@
+{
+  "issue_date": "2026-09-26",
+  "window_start": "2026-09-26",
+  "headline": "Quiet one-day window; 10y at 5.18% while IG spreads hold at 0.79%",
+  "verdict": "The window since yesterday's brief is one day, a Saturday, and it brought no material build-out news. The refreshed data moved only rates. The 10y is 5.18% (2026-09-24), +24bp on the week and +54bp on the month, while IG OAS holds at 0.79% and BBB at 0.97%. The thesis stands: spend is accelerating (+86.5% YoY in 2026Q2), it is funded from outside (T4Q capex/OCF 82%), and the cost shows up in Treasuries, not spreads.",
+  "what_changed": [
+    "The 10y Treasury is 5.18% as of 2026-09-24, up from the 5.11% (2026-09-23) quoted last brief: +24bp on the week and +54bp on the month; the 2y is 4.87%, +20bp on the week.",
+    "HY OAS widened 10bp on the week to 2.80% while IG (+1bp) and BBB (+2bp) barely moved."
+  ],
+  "sections": {
+    "spend": {
+      "claim": "Capex is still accelerating; nothing in the window changes that.",
+      "body": "Unchanged: no guidance changes in the window, and combined capex was still $181.5bn in 2026Q2, +86.5% YoY.",
+      "changed": false,
+      "evidence": []
+    },
+    "funding": {
+      "claim": "Funding costs keep rising through Treasuries, not IG spreads.",
+      "body": "Only rates moved. The 10y is 5.18% (2026-09-24), +24bp on the week and +102bp on the year; the 2y is 4.87%, +20bp on the week. The term premium is 0.96% as of 2026-09-18, with no newer print. Spreads have not followed: IG OAS is 0.79% (+1bp on the week), BBB 0.97% (+2bp). HY OAS widened 10bp to 2.80%, the only credit series that moved. No new hyperscaler, Oracle or neocloud deals or ratings actions in the window. Trailing capex is still 82% of operating cash flow.",
+      "changed": true,
+      "evidence": []
+    },
+    "receivers": {
+      "claim": "Suppliers are still booking the money; the next test is Micron on September 30.",
+      "body": "Unchanged: no supplier results in the window. NVDA was +105.9% YoY in 2026Q2, and Micron's fiscal Q4 (June–August) report on September 30 is the next read on memory.",
+      "changed": false,
+      "evidence": [
+        {
+          "text": "Micron reports fiscal Q4 on September 30, 2026",
+          "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx"
+        }
+      ]
+    },
+    "macro": {
+      "claim": "IT investment is still carrying about a third of GDP growth; productivity has not stepped up.",
+      "body": "Unchanged: no GDP, productivity or CPI release in the window; IT equipment plus software still account for 0.70pp of 2.12% average growth over four quarters, or 33%.",
+      "changed": false,
+      "evidence": []
+    },
+    "market": {
+      "claim": "The market still pays suppliers and not the spenders as a group.",
+      "body": "Unchanged: no new news in the window. Over a year, SMH/SPY is 159.9 against 81.2 for the hyperscalers, and XLU/SPY is 80.3.",
+      "changed": false,
+      "evidence": []
+    }
+  },
+  "tripwires": [
+    {
+      "id": "T1",
+      "name": "Spend slows",
+      "status": "clear",
+      "reading": "Combined capex +86.5% YoY in 2026Q2 (data/summary.md); no guidance cuts in the window."
+    },
+    {
+      "id": "T2",
+      "name": "Cash burn",
+      "status": "near",
+      "reading": "T4Q capex/OCF 82% in 2026Q2, up from 75% in 2026Q1, against a 100% line (data/summary.md)."
+    },
+    {
+      "id": "T3",
+      "name": "IG spreads wake up",
+      "status": "clear",
+      "reading": "IG OAS 0.79%, BBB OAS 0.97% on 2026-09-24, against 1.10% / 1.30% (FRED, data/summary.md)."
+    },
+    {
+      "id": "T4",
+      "name": "Weak link cracks",
+      "status": "near",
+      "reading": "Oracle BBB- at S&P since July, one notch above high yield; no rating action or CoreWeave credit event found in the window."
+    },
+    {
+      "id": "T5",
+      "name": "Suppliers roll over",
+      "status": "clear",
+      "reading": "NVDA revenue +105.9% YoY in 2026Q2 (data/summary.md); Micron reports September 30."
+    },
+    {
+      "id": "T6",
+      "name": "Rates bite",
+      "status": "near",
+      "reading": "10y 5.18% on 2026-09-24, +54bp in a month, against 5.50%; term premium 0.96% (2026-09-18) against 1.25% (FRED, data/summary.md)."
+    },
+    {
+      "id": "T7",
+      "name": "Payoff shows up (bullish)",
+      "status": "clear",
+      "reading": "Productivity +2.2% over four quarters (quarter starting 2026-04-01), down from +2.9% (data/summary.md)."
+    }
+  ],
+  "thesis_suggestions": [
+    "Tripwires: IG OAS is +4bp on the year while the 10y is +102bp and HY OAS +10bp on the week alone. T3 may trip only after T4 does. Consider adding a tripwire on HY OAS or on Oracle/neocloud bond spreads, so stress in the weak links shows up before the IG index moves."
+  ],
+  "sources": [
+    {
+      "title": "Micron Technology to Report Fiscal Fourth Quarter Results on September 30, 2026",
+      "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx"
+    },
+    {
+      "title": "Oracle stock shrugs off S&P downgrade to BBB- (Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-shrugs-off-p-185346661.html"
+    }
+  ]
+}

@@ -4,3 +4,9 @@ __pycache__/
 briefs/*.bak
 rawcache/
 .env
+
+# desktop app build output
+build/
+dist/
+*.spec
+AI Brief.exe

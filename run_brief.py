@@ -64,6 +64,8 @@ async def run_agent(prompt: str) -> None:
         max_turns=int(os.environ.get("BRIEF_MAX_TURNS", "80")),
         model=os.environ.get("BRIEF_MODEL") or None,
     )
+    agent_error = None
+    last_text = None
     async for msg in query(prompt=prompt, options=options):
         if isinstance(msg, AssistantMessage):
             for block in msg.content:
@@ -71,11 +73,14 @@ async def run_agent(prompt: str) -> None:
                     arg = block.input.get("query") or block.input.get("url") or block.input.get("file_path") or ""
                     print(f"  [{block.name}] {str(arg)[:110]}", flush=True)
                 elif isinstance(block, TextBlock) and block.text.strip():
-                    print(f"  {block.text.strip()[:200]}", flush=True)
+                    last_text = block.text.strip()
+                    print(f"  {last_text[:200]}", flush=True)
         elif isinstance(msg, ResultMessage):
             print(f"  agent finished: {msg.subtype}, {msg.num_turns} turns, {msg.duration_ms / 1000:.0f}s", flush=True)
             if msg.is_error:
-                raise RuntimeError(f"agent error: {msg.subtype} {msg.errors or ''}")
+                agent_error = "; ".join(msg.errors or []) or msg.result or last_text or msg.subtype
+    if agent_error:
+        raise RuntimeError(agent_error)
 
 
 def main() -> int:
@@ -101,7 +106,11 @@ def main() -> int:
         if out.exists():
             out.rename(out.with_suffix(".json.bak"))
         step(f"2/3 Claude writes the brief -> briefs/{out.name}")
-        asyncio.run(run_agent(build_prompt(today, f"briefs/{out.name}", prev)))
+        try:
+            asyncio.run(run_agent(build_prompt(today, f"briefs/{out.name}", prev)))
+        except RuntimeError as e:
+            print(f"Claude could not complete the brief: {e}")
+            return 1
         if not out.exists():
             print("The agent did not write the brief file.")
             return 1

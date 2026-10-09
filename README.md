@@ -70,6 +70,15 @@ match `data/summary.md` or a linked source.
 
 After that it runs every Monday at about 6:17am New York time.
 
+
+## Desktop app (no command line)
+
+`app.py` is a small desktop window over the same scripts: a Start button with
+live progress, the list of past issues, editors for `THESIS.md` and
+`BRIEF.md`, a Publish page that commits and pushes, and Settings for the
+subscription token. Build it once by double-clicking `build_app.bat`; it leaves
+`AI Brief.exe` in this folder (make a desktop shortcut to it if you like). Settings are stored by Windows for your account, not in the repo.
+
 ## Running it yourself
 
 ```

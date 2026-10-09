@@ -1,111 +1,96 @@
-# The build-out now runs on outside money, and Treasuries are charging for it
+# Memory and TSMC still booming; OpenAI revenue shortfall hits Oracle and CoreWeave
 
-*AI build-out brief · 2026-09-25*
+*AI build-out brief · 2026-10-09*
 
-Hyperscaler capex is still accelerating: $181.5bn in 2026Q2, +86.5% YoY, and 82% of operating cash flow on a trailing basis, up from 40% in 2024Q1. The gap is being filled with bonds and equity, yet IG spreads have barely moved (IG OAS 0.79%, +4bp on the year); the cost is showing up in rates, with the 10y at 5.11% after the Fed's September 16 hike. This week the market kept splitting spenders by whether they show product revenue: Meta +13.0%, Oracle -6.6%.
+The build-out is on track, with this window's strongest supplier numbers yet from Micron, TSMC and Samsung. What changed is on the demand and funding side: a reported OpenAI revenue shortfall hit the names that depend on it, and Oracle is reported to be moving chip financing off its balance sheet. IG spreads did not react (0.82%), and the Fed minutes kept rates as the funding pressure.
 
 **What changed this week**
 
-- The 10y Treasury rose 10bp on the week to 5.11% and the 2y 11bp to 4.85%, extending the move that followed the Fed's September 16 hike to 3.75–4.00%.
-- CoreWeave priced an upsized $3.7bn 2.875% convertible due 2033 on September 18, up from a $3.0bn launch, with a $0.5bn upsize option.
-- Meta rose 13.0% on the week after Wells Fargo raised its target on early adoption of the Muse AI agent: a spender being paid for product revenue.
-- Oracle fell 6.6% on the week and is down 52.1% over a year, two weeks after reporting negative free cash flow alongside $664bn of backlog.
-- Semis kept pulling away: SMH/SPY rose to 159.9 from 147.9 a month ago, while the equal-weight S&P fell to 97.0 from 102.6 against SPY.
+- Micron's fiscal Q4 (June–August) revenue was $54.23bn against $11.32bn a year earlier, and it guided fiscal Q1 to $61.5bn ± $1.5bn, so memory is still guiding up quarter on quarter.
+- TSMC's September revenue was NT$511.86bn, +54.6% YoY, and Samsung's preliminary Q3 operating profit was 107.4 trillion won, +782.5% YoY.
+- Oracle is reported to be in talks with Apollo and Goldman Sachs on a separate company that would buy AI chips and lease them to Oracle, keeping the borrowing off its balance sheet.
+- News reports of OpenAI revenue about $20bn below prior estimates hit the exposed names on October 8: Oracle fell about 5%, and CoreWeave is -8.4% on the week.
+- The minutes of the September 15–16 FOMC, which raised rates to 3-3/4 to 4 percent, say most participants see another hike as likely appropriate by year end and note that hyperscaler spreads remained wide.
 
 ## 1. Spend (no change)
 
-**Capex is still accelerating, and 2026 guidance points higher again.**
+**Capex is still accelerating; no spender changed guidance in the window.**
 
-No new guidance this week. Combined capex was $181.5bn in 2026Q2, +86.5% YoY, and $566.4bn over four quarters. The 2026 guides add to $720–745bn: Alphabet $195–205bn, Amazon $220bn, Meta $130–145bn, Microsoft about $175bn. Oracle guides $90–95bn for its fiscal year to May 2027. Some of the growth is price, not volume: Amazon tied its $20bn raise to memory costs. Microsoft's lower figure reflects moving data-center leases to operating leases, not less spending.
+Unchanged: no capex guidance changes from the five in the window. Combined capex was $181.5bn in 2026Q2, +86.5% YoY, and the next read is the October earnings round.
 
-![spend](site/2026-09-25/charts/spend.svg)
+![spend](site/2026-10-09/charts/spend.svg)
 
-- [Alphabet raised its 2026 capex guide to $195–205bn (July 22)](https://www.fool.com/investing/2026/08/11/sundar-pichai-alphabet-2026-capex-forecast-buy/)
-- [Amazon raised 2026 capex to $220bn, citing memory prices](https://finance.yahoo.com/markets/stocks/articles/amazon-raised-2026-capex-20-223016275.html)
-- [Meta Q2 release: 2026 capex $130–145bn incl. finance lease principal](https://www.sec.gov/Archives/edgar/data/1326801/000162828026050596/meta-06302026xexhibit991.htm)
-- [Microsoft: CY2026 capex about $175bn after lease accounting change](https://www.cfodive.com/news/microsoft-holds-line-ai-spending-plans/826648/)
-- [Oracle FY27 capex guide $90–95bn, net cash capex under $70bn](https://www.investing.com/news/company-news/oracle-q1-fy2027-slides-cloud-infrastructure-surges-121-guides-90b-93CH-4897025)
 
 ## 2. Funding (new this week)
 
-**The spenders now fund the gap in the bond and equity markets, and the price is showing up in Treasuries, not IG spreads.**
+**The marginal dollar is moving off balance sheet at the weakest spender, while index spreads stay calm.**
 
-Trailing capex is 82% of operating cash flow, and combined long-term debt rose from $212.5bn in 2024Q4 to $464.1bn in 2026Q2. Alphabet sold $84.75bn of equity in June; Oracle raised $20bn through an at-the-market program. IG OAS is 0.79%, only +4bp on the year, but the 10y is +99bp and the term premium +50bp. Hyperscaler paper is cheapening at the margin: 2026 new-issue concessions averaged 12bp against 2.25bp in 2025. This week CoreWeave priced a $3.7bn convertible.
+Oracle is reported (WSJ, via Yahoo Finance) to be negotiating with Apollo and Goldman Sachs over a separate company that would buy chips and lease them to Oracle. Its fiscal Q1 (June–August) capex was $28.5bn against $23.1bn of operating cash flow. The Fed minutes say hyperscaler spreads 'remained wide'. Index spreads are calm: IG 0.82%, BBB 1.02%, both -4bp on the week. HY is 3.15%, +48bp on the month. The 10y is 5.22%. The term premium is 1.08%, +19bp on the month.
 
-![funding](site/2026-09-25/charts/funding.svg)
+![funding](site/2026-10-09/charts/funding.svg)
 
-![credit](site/2026-09-25/charts/credit.svg)
+![credit](site/2026-10-09/charts/credit.svg)
 
-- [Alphabet priced an $84.75bn equity raise for AI infrastructure (June 3)](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Upsize-and-Pricing-of-84-75-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure--and-Compute-2026-QzN3D9yMAj/default.aspx)
-- [Oracle completed a $20bn at-the-market equity issuance in fiscal Q1 (June–August)](https://www.investing.com/news/company-news/oracle-q1-fy2027-slides-cloud-infrastructure-surges-121-guides-90b-93CH-4897025)
-- [Hyperscaler new-issue concessions 12bp in 2026 vs 2.25bp in 2025; cover ratios below 2x (July 29)](https://finance.yahoo.com/markets/stocks/articles/hyperscaler-debt-binge-pushes-yields-134825104.html)
-- [CoreWeave prices upsized $3.7bn 2.875% convertible due 2033 (September 18)](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Prices-Upsized-3-7-Billion-Convertible-Senior-Notes-Offering/default.aspx)
-- [FOMC raises the target range to 3.75–4.00% (September 16)](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)
+- [WSJ report: Oracle in talks with Apollo and Goldman on an off-balance-sheet chip-leasing vehicle; June–August capex $28.5bn](https://finance.yahoo.com/technology/article/oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-openai-revenue-disclosure-181653494.html)
+- [FOMC minutes, September 15–16: hike to 3-3/4 to 4 percent; hyperscaler spreads 'remained wide'](https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm)
 
-## 3. Receivers (no change)
+## 3. Receivers (new this week)
 
-**Suppliers are booking the money, and their growth is still speeding up.**
+**Suppliers are booking more than ever, and memory is guiding higher.**
 
-No new supplier results this week. NVDA revenue was $96.2bn in 2026Q2, +105.9% YoY, and it guides about $108bn for the next quarter. Broadcom grew +85.5% and Micron +345.7% in their latest quarters, the latter as much memory pricing as volume. TSMC's August sales rose 53.3% YoY. Vertiv, the power-and-cooling proxy, is steadier at +24.1%. Micron reports its fiscal Q4 on September 30, the next read on memory pricing.
+Micron's fiscal Q4 (June–August) revenue was $54.23bn, up from $41.46bn the prior quarter, at an 86.8% GAAP gross margin. It guided fiscal Q1 (September–November) to $61.5bn ± $1.5bn, the opposite of the T5 trigger. TSMC's September sales were NT$511.86bn, +54.6% YoY but -0.6% from August. Samsung's preliminary Q3 operating profit was 107.4 trillion won, +782.5% YoY, on revenue of 195 trillion won. NVDA is still +105.9% YoY in 2026Q2.
 
-![receivers](site/2026-09-25/charts/receivers.svg)
+![receivers](site/2026-10-09/charts/receivers.svg)
 
-- [NVIDIA Q2 FY27: $96.2bn revenue, Q3 outlook about $108.0bn](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx)
-- [TSMC August 2026 revenue NT$514.81bn, +53.3% YoY](https://pr.tsmc.com/english/news/3340)
-- [Micron reports fiscal Q4 on September 30, 2026](https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx)
+- [Micron fiscal Q4 2026 results and fiscal Q1 2027 guidance (8-K, September 30)](https://www.sec.gov/Archives/edgar/data/0000723125/000072312526000018/a2026q4ex991-pressrelease.htm)
+- [TSMC September 2026 revenue (6-K, October 8)](https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000680/tsm-revenue20261008.htm)
+- [Samsung preliminary Q3 2026 operating profit and revenue (news report)](https://www.koreaherald.com/article/10896336)
 
-## 4. Macro (no change)
+## 4. Macro (new this week)
 
-**IT investment is carrying about a third of GDP growth, while productivity has cooled.**
+**The Fed now treats the build-out as a demand force to lean against, and power remains the physical constraint.**
 
-No new GDP or productivity data this week. Over the last four quarters, IT equipment plus software contributed 0.70pp of 2.12% average real GDP growth, or 33%. Productivity growth slowed to +2.2% over four quarters from +2.9% a quarter earlier. Electricity CPI is +4.0% YoY, down from +6.8% three months ago. The inflation behind the Fed's hike came from energy, with gasoline +27.4% YoY in August, not from power prices.
+The September minutes, released October 7, say 'the scale and pace of the AI buildout had continued to surprise to the upside'. Most participants see another hike by year end. The Fed expects AI to lift productivity later. For now productivity is +2.2%, down from +2.9%. IT equipment plus software are 0.75pp of 2.20% average growth, or 34%. On power, New Mexico regulators rejected the pipeline route for Oracle's 2.45GW Project Jupiter, so Oracle may truck in gas (news report).
 
-![macro](site/2026-09-25/charts/macro.svg)
+![macro](site/2026-10-09/charts/macro.svg)
 
-- [BLS August CPI: headline +3.4%, core +2.4%, gasoline +27.4% YoY](https://www.bls.gov/news.release/cpi.nr0.htm)
+- [FOMC minutes: AI buildout surprising to the upside; most see another hike by year end](https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm)
+- [Project Jupiter pipeline rejected; Oracle weighs trucked gas and sent a force majeure notice](https://www.tipranks.com/news/why-oracle-stock-orcl-is-sinking-today-october-8-2026)
 
 ## 5. Market (new this week)
 
-**The market pays suppliers and spenders that show revenue, and punishes spenders that only show capex.**
+**Equity investors priced counterparty risk this week: they sold the OpenAI-exposed names and suppliers, not the big spenders.**
 
-Over a year, SMH relative to SPY is at 159.9 while the equal-weight hyperscaler basket is at 81.5. Within the spenders, Meta rose 13.0% this week on early adoption of its paid Muse agent; Oracle fell 6.6% and is down 52.1% on the year. Utilities are at 80.1 relative to SPY, down from 88.6 a month ago, trading as rate-sensitive bond proxies rather than AI winners. Breadth narrowed: RSP/SPY fell to 97.0 from 102.6.
+News reports of OpenAI revenue about $20bn below prior estimates hit exposed names on October 8. Oracle fell about 5% that day. CoreWeave is -8.4% on the week and SMH -4.3%. The big spenders held up: AMZN +4.3%, MSFT +3.4%, META -1.3%. XLU rose 4.0%. Over the year the split stands: SMH/SPY 149.5 against 82.4 for the hyperscalers. Breadth narrowed, with RSP/SPY at 97.5 against 100.2 a month ago.
 
-![market](site/2026-09-25/charts/market.svg)
+![market](site/2026-10-09/charts/market.svg)
 
-- [Meta jumps after Wells Fargo target raise on Muse AI agent adoption (September 21)](https://www.fool.com/investing/2026/09/21/why-meta-platforms-stock-skyrocketed-today/)
+- [Oracle falls 5% on the OpenAI revenue report and the debt-financing report](https://finance.yahoo.com/technology/article/oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-openai-revenue-disclosure-181653494.html)
+- [FT report of OpenAI revenue about $20bn below expectations; CoreWeave and Nasdaq fall (news report)](https://www.fxleaders.com/news/2026/10/08/crwv-stock-falls-10-as-openai-concerns-and-asian-chip-rout-spreads-to-nasdaq/)
 
 ## Tripwires
 
 | ID | Tripwire | Status | Reading |
 |---|---|---|---|
-| T1 | Spend slows | ○ Clear | Combined capex +86.5% YoY in 2026Q2 (data/summary.md); no guidance cuts, three of four raised in July. |
-| T2 | Cash burn | ◐ Near | T4Q capex/OCF 82% in 2026Q2, up from 75% a quarter earlier; 100% is the line (data/summary.md). |
-| T3 | IG spreads wake up | ○ Clear | IG OAS 0.79%, BBB OAS 0.97% on 2026-09-24, against 1.10% / 1.30% (FRED). |
-| T4 | Weak link cracks | ◐ Near | Oracle is BBB- at S&P since July 9, one notch above high yield; CoreWeave is still raising, $3.7bn convertible on September 18. |
-| T5 | Suppliers roll over | ○ Clear | NVDA revenue +105.9% YoY, guiding about $108bn next quarter; Micron reports September 30. |
-| T6 | Rates bite | ◐ Near | 10y 5.11% on 2026-09-23, +41bp in a month, against 5.50%; term premium 0.96% against 1.25% (FRED). |
-| T7 | Payoff shows up (bullish) | ○ Clear | Productivity +2.2% over four quarters, down from +2.9%; not two quarters above 2.5%. |
+| T1 | Spend slows | ○ Clear | Combined capex +86.5% YoY in 2026Q2 (data/summary.md); no guidance cuts in the window. |
+| T2 | Cash burn | ◐ Near | T4Q capex/OCF 82% in 2026Q2, up from 75% in 2026Q1, against a 100% line (data/summary.md). |
+| T3 | IG spreads wake up | ○ Clear | IG OAS 0.82%, BBB OAS 1.02% on 2026-10-08, against 1.10% / 1.30% (FRED, data/summary.md). |
+| T4 | Weak link cracks | ◐ Near | Oracle still BBB- at S&P with no rating action in the window; it sent a force majeure notice on Project Jupiter; no CoreWeave credit event found. |
+| T5 | Suppliers roll over | ○ Clear | NVDA +105.9% YoY in 2026Q2 (data/summary.md); Micron guided fiscal Q1 to $61.5bn ± $1.5bn, up from $54.23bn (8-K). |
+| T6 | Rates bite | ◐ Near | 10y 5.22% on 2026-10-08 against 5.50%; term premium 1.08% (2026-10-02), +19bp in a month, against 1.25% (FRED, data/summary.md). |
+| T7 | Payoff shows up (bullish) | ○ Clear | Productivity +2.2% over four quarters (quarter starting 2026-04-01), down from +2.9% (data/summary.md). |
 
 ## Suggested edits to your thesis
 
-- Point 6: the funding cost is showing up in Treasury yields and term premium, not in IG spreads, which are +4bp on the year. Consider saying so and treating T6 (rates) as the main funding tripwire, with T3 (spreads) as confirmation.
-- Point 5: the split is not simply suppliers vs spenders. Meta's week says spenders get paid when they show product revenue. Consider framing it as 'the market pays for monetization, not for capex'.
+- T4: add a customer-side trigger. This week's equity stress came from the end customer: news reports put OpenAI revenue about $20bn below prior estimates, and Oracle sent a force majeure notice on Project Jupiter. Suggested addition: 'a major AI-lab customer cuts or defers contracted capacity, or a spender invokes force majeure on a contracted data center.'
+- Point 2 / T2: T2 measures only on-balance-sheet capex. Oracle's reported chip-leasing vehicle with Apollo and Goldman would keep that spend out of both capex and debt. Consider tracking off-balance-sheet lease commitments alongside the capex/OCF ratio.
 
 ## Sources
 
-1. [FOMC statement, September 16, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)
-2. [CoreWeave Prices Upsized $3.7 Billion Convertible Senior Notes Offering](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Prices-Upsized-3-7-Billion-Convertible-Senior-Notes-Offering/default.aspx)
-3. [Alphabet Announces Upsize and Pricing of $84.75 Billion Equity Capital Raise](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Upsize-and-Pricing-of-84-75-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure--and-Compute-2026-QzN3D9yMAj/default.aspx)
-4. [Oracle Q1 FY2027 slides (Investing.com)](https://www.investing.com/news/company-news/oracle-q1-fy2027-slides-cloud-infrastructure-surges-121-guides-90b-93CH-4897025)
-5. [Oracle Q1 FY27 results: $664B backlog, negative cash flow (ERP Today)](https://erp.today/oracle-q1-fy27-results-664b-backlog-ai-contracts)
-6. [Oracle stock shrugs off S&P downgrade to BBB- (Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/oracle-stock-shrugs-off-p-185346661.html)
-7. [Hyperscaler debt binge pushes yields up as investor demand cools (Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/hyperscaler-debt-binge-pushes-yields-134825104.html)
-8. [Meta Reports Second Quarter 2026 Results (SEC exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/1326801/000162828026050596/meta-06302026xexhibit991.htm)
-9. [Alphabet 2026 capex forecast raised to $195–205bn (Motley Fool)](https://www.fool.com/investing/2026/08/11/sundar-pichai-alphabet-2026-capex-forecast-buy/)
-10. [Amazon raised 2026 capex by $20 billion (Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/amazon-raised-2026-capex-20-223016275.html)
-11. [Microsoft holds the line on AI spending plans (CFO Dive)](https://www.cfodive.com/news/microsoft-holds-line-ai-spending-plans/826648/)
-12. [NVIDIA Announces Financial Results for Second Quarter Fiscal 2027](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx)
-13. [TSMC August 2026 Revenue Report](https://pr.tsmc.com/english/news/3340)
-14. [Micron to report fiscal Q4 results on September 30, 2026](https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx)
-15. [BLS Consumer Price Index summary, August 2026](https://www.bls.gov/news.release/cpi.nr0.htm)
-16. [Why Meta Platforms stock skyrocketed today (Motley Fool, September 21)](https://www.fool.com/investing/2026/09/21/why-meta-platforms-stock-skyrocketed-today/)
+1. [Micron Technology Form 8-K, fiscal Q4 2026 press release](https://www.sec.gov/Archives/edgar/data/0000723125/000072312526000018/a2026q4ex991-pressrelease.htm)
+2. [TSMC Form 6-K, September 2026 revenue report](https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000680/tsm-revenue20261008.htm)
+3. [Samsung Q3 2026 preliminary earnings (Korea Herald)](https://www.koreaherald.com/article/10896336)
+4. [Minutes of the Federal Open Market Committee, September 15–16, 2026](https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm)
+5. [Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure (Yahoo Finance)](https://finance.yahoo.com/technology/article/oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-openai-revenue-disclosure-181653494.html)
+6. [Why Oracle Stock (ORCL) Is Sinking Today, October 8, 2026 (TipRanks)](https://www.tipranks.com/news/why-oracle-stock-orcl-is-sinking-today-october-8-2026)
+7. [CRWV Stock Falls 10% as OpenAI Concerns and Asian Chip Rout Spreads to Nasdaq (FX Leaders)](https://www.fxleaders.com/news/2026/10/08/crwv-stock-falls-10-as-openai-concerns-and-asian-chip-rout-spreads-to-nasdaq/)
