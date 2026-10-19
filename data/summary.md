@@ -1,4 +1,4 @@
-# Data summary — generated 2026-10-12T19:52:02Z
+# Data summary — generated 2026-10-19T17:00:25Z
 
 All figures below come straight from the sources named. $ figures are US$ billions unless marked.
 Quarters are CALENDAR quarters (fiscal quarters are mapped by their midpoint).
@@ -94,12 +94,12 @@ Source: FRED (ICE BofA indices, Treasury, Kim-Wright term premium). Changes in b
 
 | Series | Latest | As of | Δ1w | Δ1m | Δ3m | Δ1y |
 |---|---|---|---|---|---|---|
-| IG corporate OAS (ICE BofA) | 0.82% | 2026-10-08 | -4bp | +1bp | +6bp | +7bp |
-| BBB OAS (ICE BofA) | 1.02% | 2026-10-08 | -4bp | +3bp | +8bp | +7bp |
-| HY OAS (ICE BofA) | 3.15% | 2026-10-08 | -9bp | +48bp | +45bp | +31bp |
-| 2y Treasury yield | 4.75% | 2026-10-08 | -3bp | +36bp | +59bp | +117bp |
-| 10y Treasury yield | 5.22% | 2026-10-08 | -2bp | +42bp | +68bp | +109bp |
-| 10y term premium (Kim-Wright) | 1.08% | 2026-10-02 | +6bp | +19bp | +35bp | +61bp |
+| IG corporate OAS (ICE BofA) | 0.85% | 2026-10-16 | +2bp | +7bp | +6bp | +5bp |
+| BBB OAS (ICE BofA) | 1.06% | 2026-10-16 | +4bp | +10bp | +9bp | +5bp |
+| HY OAS (ICE BofA) | 3.31% | 2026-10-16 | +20bp | +61bp | +58bp | +27bp |
+| 2y Treasury yield | 4.77% | 2026-10-15 | +2bp | +10bp | +61bp | +127bp |
+| 10y Treasury yield | 5.10% | 2026-10-15 | -12bp | +10bp | +53bp | +105bp |
+| 10y term premium (Kim-Wright) | 1.07% | 2026-10-09 | -1bp | +17bp | +29bp | +57bp |
 
 ## 4. Macro (quarterly / monthly)
 Source: BEA and BLS via FRED; Census construction spending via FRED.
@@ -118,7 +118,7 @@ Source: BEA and BLS via FRED; Census construction spending via FRED.
 Single-quarter shares are noisy (a weak GDP quarter inflates them); the 4-quarter average is the steadier read.
 
 - Productivity (output/hour), 4-quarter change: +2.2% (quarter starting 2026-04-01); prior quarter: +2.9%
-- Electricity CPI, YoY: +4.0% (2026-08-01); 3 months earlier: +6.8%
+- Electricity CPI, YoY: +4.0% (2026-09-01); 3 months earlier: +4.8%
 - Power construction spending, YoY: +8.5% (2026-08-01; level $186.0bn SAAR)
 
 ## 5. Market
@@ -126,24 +126,24 @@ Source: Yahoo Finance adjusted closes.
 
 | Symbol | Last | As of | 1w | 1m | 3m | 1y |
 |---|---|---|---|---|---|---|
-| SPY | 777.96 | 2026-10-12 | +0.4% | +2.0% | +4.1% | +20.4% |
-| RSP | 213.17 | 2026-10-12 | +1.0% | -0.4% | -0.1% | +17.0% |
-| SMH | 590.69 | 2026-10-12 | -6.8% | +3.9% | +0.9% | +82.1% |
-| XLU | 41.62 | 2026-10-12 | +4.1% | -1.1% | -8.3% | -5.1% |
-| QQQ | 745.86 | 2026-10-12 | -1.4% | +4.4% | +4.9% | +27.1% |
-| NVDA | 226.72 | 2026-10-12 | -5.1% | +3.9% | +11.5% | +24.1% |
-| MSFT | 540.20 | 2026-10-12 | +2.9% | +9.0% | +38.4% | +6.6% |
-| AMZN | 259.46 | 2026-10-12 | +3.2% | +1.0% | +4.9% | +19.9% |
-| GOOGL | 353.05 | 2026-10-12 | +1.9% | +4.3% | +0.2% | +49.6% |
-| META | 742.33 | 2026-10-12 | +0.1% | +14.6% | +13.1% | +5.6% |
-| ORCL | 137.41 | 2026-10-12 | -3.2% | -8.2% | +4.9% | -52.5% |
-| CRWV | 80.75 | 2026-10-12 | -7.6% | -9.3% | -3.1% | -41.7% |
+| SPY | 767.41 | 2026-10-19 | -1.4% | +0.8% | +3.7% | +16.8% |
+| RSP | 213.46 | 2026-10-19 | +0.1% | +0.9% | +0.9% | +15.3% |
+| SMH | 552.09 | 2026-10-19 | -6.6% | -3.6% | -1.2% | +61.5% |
+| XLU | 41.48 | 2026-10-19 | -0.4% | +1.7% | -7.0% | -6.8% |
+| QQQ | 719.85 | 2026-10-19 | -3.5% | -0.1% | +3.5% | +19.8% |
+| NVDA | 217.98 | 2026-10-19 | -3.7% | -1.9% | +7.4% | +19.3% |
+| MSFT | 533.18 | 2026-10-19 | -1.5% | +8.0% | +32.8% | +4.7% |
+| AMZN | 262.53 | 2026-10-19 | +1.2% | +3.5% | +5.0% | +23.2% |
+| GOOGL | 344.55 | 2026-10-19 | -2.3% | -1.4% | -2.0% | +36.4% |
+| META | 701.57 | 2026-10-19 | -5.6% | +5.5% | +8.7% | -1.8% |
+| ORCL | 129.79 | 2026-10-19 | -5.5% | -11.7% | +7.3% | -54.8% |
+| CRWV | 60.70 | 2026-10-19 | -24.4% | -25.4% | -16.9% | -55.7% |
 
 Relative performance, indexed to 100 one year ago (above 100 = beat SPY over the year):
-- SMH/SPY: 151.2 (one month ago 148.5)
-- RSP/SPY: 97.2 (one month ago 99.6)
-- XLU/SPY: 78.8 (one month ago 81.3)
-- Hyperscalers/SPY: 82.7 (one month ago 80.6)
+- SMH/SPY: 138.4 (one month ago 144.7)
+- RSP/SPY: 98.8 (one month ago 98.6)
+- XLU/SPY: 79.8 (one month ago 79.1)
+- Hyperscalers/SPY: 82.1 (one month ago 81.8)
 
 ## Data status
 All sources OK.
