@@ -1,4 +1,4 @@
-# Data summary — generated 2026-10-19T17:00:25Z
+# Data summary — generated 2026-10-26T16:49:30Z
 
 All figures below come straight from the sources named. $ figures are US$ billions unless marked.
 Quarters are CALENDAR quarters (fiscal quarters are mapped by their midpoint).
@@ -58,12 +58,12 @@ Source: SEC 10-Q/10-K XBRL (cash-flow statement). Aggregate shown only for quart
 
 | Quarter | Period end | Capex | OCF | FCF | New fin. leases | Debt proceeds | Debt repaid | LT debt, non-current (end) |
 |---|---|---|---|---|---|---|---|---|
-| 2025Q1 | 2025-03-31 | 12.9 | 24.0 | 11.1 | n/a | n/a | n/a | 28.8 |
 | 2025Q2 | 2025-06-30 | 16.5 | 25.6 | 9.0 | n/a | n/a | n/a | 28.8 |
 | 2025Q3 | 2025-09-30 | 18.8 | 30.0 | 11.2 | n/a | 0.0 | n/a | 28.8 |
 | 2025Q4 | 2025-12-31 | 21.4 | 36.2 | 14.8 | n/a | 29.9 | n/a | 58.7 |
 | 2026Q1 | 2026-03-31 | 19.0 | 32.2 | 13.2 | n/a | n/a | n/a | 58.7 |
 | 2026Q2 | 2026-06-30 | 30.1 | 31.9 | 1.7 | n/a | n/a | n/a | 83.7 |
+| 2026Q3 | 2026-09-30 | 33.9 | 32.8 | -1.2 | n/a | 0.0 | n/a | 80.9 |
 
 **ORCL** (tags: capex=PaymentsToAcquirePropertyPlantAndEquipment, debt proceeds=ProceedsFromIssuanceOfLongTermDebt+ProceedsFromIssuanceOfSeniorLongTermDebt+ProceedsFromDebtNetOfIssuanceCosts+ProceedsFromIssuanceOfDebt, LT debt=LongTermNotesAndLoans)
 
@@ -94,12 +94,12 @@ Source: FRED (ICE BofA indices, Treasury, Kim-Wright term premium). Changes in b
 
 | Series | Latest | As of | Δ1w | Δ1m | Δ3m | Δ1y |
 |---|---|---|---|---|---|---|
-| IG corporate OAS (ICE BofA) | 0.85% | 2026-10-16 | +2bp | +7bp | +6bp | +5bp |
-| BBB OAS (ICE BofA) | 1.06% | 2026-10-16 | +4bp | +10bp | +9bp | +5bp |
-| HY OAS (ICE BofA) | 3.31% | 2026-10-16 | +20bp | +61bp | +58bp | +27bp |
-| 2y Treasury yield | 4.77% | 2026-10-15 | +2bp | +10bp | +61bp | +127bp |
-| 10y Treasury yield | 5.10% | 2026-10-15 | -12bp | +10bp | +53bp | +105bp |
-| 10y term premium (Kim-Wright) | 1.07% | 2026-10-09 | -1bp | +17bp | +29bp | +57bp |
+| IG corporate OAS (ICE BofA) | 0.91% | 2026-10-23 | +6bp | +14bp | +11bp | +13bp |
+| BBB OAS (ICE BofA) | 1.13% | 2026-10-23 | +7bp | +18bp | +14bp | +13bp |
+| HY OAS (ICE BofA) | 3.38% | 2026-10-23 | +7bp | +65bp | +59bp | +42bp |
+| 2y Treasury yield | 4.65% | 2026-10-22 | -12bp | -6bp | +28bp | +120bp |
+| 10y Treasury yield | 4.96% | 2026-10-22 | -14bp | +0bp | +25bp | +99bp |
+| 10y term premium (Kim-Wright) | 0.99% | 2026-10-16 | -9bp | +1bp | +21bp | +57bp |
 
 ## 4. Macro (quarterly / monthly)
 Source: BEA and BLS via FRED; Census construction spending via FRED.
@@ -126,24 +126,24 @@ Source: Yahoo Finance adjusted closes.
 
 | Symbol | Last | As of | 1w | 1m | 3m | 1y |
 |---|---|---|---|---|---|---|
-| SPY | 767.41 | 2026-10-19 | -1.4% | +0.8% | +3.7% | +16.8% |
-| RSP | 213.46 | 2026-10-19 | +0.1% | +0.9% | +0.9% | +15.3% |
-| SMH | 552.09 | 2026-10-19 | -6.6% | -3.6% | -1.2% | +61.5% |
-| XLU | 41.48 | 2026-10-19 | -0.4% | +1.7% | -7.0% | -6.8% |
-| QQQ | 719.85 | 2026-10-19 | -3.5% | -0.1% | +3.5% | +19.8% |
-| NVDA | 217.98 | 2026-10-19 | -3.7% | -1.9% | +7.4% | +19.3% |
-| MSFT | 533.18 | 2026-10-19 | -1.5% | +8.0% | +32.8% | +4.7% |
-| AMZN | 262.53 | 2026-10-19 | +1.2% | +3.5% | +5.0% | +23.2% |
-| GOOGL | 344.55 | 2026-10-19 | -2.3% | -1.4% | -2.0% | +36.4% |
-| META | 701.57 | 2026-10-19 | -5.6% | +5.5% | +8.7% | -1.8% |
-| ORCL | 129.79 | 2026-10-19 | -5.5% | -11.7% | +7.3% | -54.8% |
-| CRWV | 60.70 | 2026-10-19 | -24.4% | -25.4% | -16.9% | -55.7% |
+| SPY | 764.27 | 2026-10-26 | -0.3% | -0.9% | +3.7% | +14.1% |
+| RSP | 216.99 | 2026-10-26 | +1.7% | +2.8% | +1.2% | +15.3% |
+| SMH | 539.97 | 2026-10-26 | -1.5% | -11.0% | -1.6% | +54.3% |
+| XLU | 42.60 | 2026-10-26 | +3.0% | +7.8% | -6.1% | -4.1% |
+| QQQ | 711.28 | 2026-10-26 | -1.0% | -4.5% | +4.4% | +15.8% |
+| NVDA | 215.05 | 2026-10-26 | -0.9% | -4.5% | +9.6% | +15.7% |
+| MSFT | 529.43 | 2026-10-26 | -0.8% | +2.6% | +36.3% | +1.9% |
+| AMZN | 248.63 | 2026-10-26 | -5.3% | -0.4% | +7.5% | +10.9% |
+| GOOGL | 318.75 | 2026-10-26 | -7.4% | -7.3% | -2.3% | +23.0% |
+| META | 641.91 | 2026-10-26 | -9.0% | -14.6% | +8.2% | -12.8% |
+| ORCL | 125.75 | 2026-10-26 | -3.0% | -7.9% | +5.3% | -55.0% |
+| CRWV | 56.05 | 2026-10-26 | -8.3% | -36.0% | -20.8% | -57.7% |
 
 Relative performance, indexed to 100 one year ago (above 100 = beat SPY over the year):
-- SMH/SPY: 138.4 (one month ago 144.7)
-- RSP/SPY: 98.8 (one month ago 98.6)
-- XLU/SPY: 79.8 (one month ago 79.1)
-- Hyperscalers/SPY: 82.1 (one month ago 81.8)
+- SMH/SPY: 135.2 (one month ago 150.5)
+- RSP/SPY: 101.1 (one month ago 97.4)
+- XLU/SPY: 84.1 (one month ago 77.2)
+- Hyperscalers/SPY: 78.3 (one month ago 82.8)
 
 ## Data status
 All sources OK.
