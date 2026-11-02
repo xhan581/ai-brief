@@ -1,4 +1,4 @@
-# Data summary — generated 2026-10-26T16:49:30Z
+# Data summary — generated 2026-11-02T20:23:57Z
 
 All figures below come straight from the sources named. $ figures are US$ billions unless marked.
 Quarters are CALENDAR quarters (fiscal quarters are mapped by their midpoint).
@@ -8,7 +8,6 @@ Source: SEC 10-Q/10-K XBRL (cash-flow statement). Aggregate shown only for quart
 
 | Quarter | Capex $bn | Capex YoY | New finance leases $bn | OCF $bn | T4Q capex $bn | T4Q OCF $bn | T4Q capex/OCF | LT debt, non-current, combined $bn |
 |---|---|---|---|---|---|---|---|---|
-| 2024Q1 | 46.0 | +25.7% | 3.5 | 104.5 | 163.6 | 411.0 | 40% | n/a |
 | 2024Q2 | 55.6 | +57.5% | 5.0 | 114.6 | 183.9 | 428.7 | 43% | n/a |
 | 2024Q3 | 61.2 | +59.9% | 4.6 | 123.0 | 206.8 | 441.8 | 47% | n/a |
 | 2024Q4 | 76.3 | +73.4% | 7.0 | 136.3 | 239.1 | 478.4 | 50% | 212.5 |
@@ -18,6 +17,7 @@ Source: SEC 10-Q/10-K XBRL (cash-flow statement). Aggregate shown only for quart
 | 2025Q4 | 130.7 | +71.2% | 7.9 | 180.9 | 411.5 | 602.8 | 68% | 306.3 |
 | 2026Q1 | 148.4 | +90.8% | 5.8 | 157.9 | 482.1 | 640.5 | 75% | 411.5 |
 | 2026Q2 | 181.5 | +86.5% | 7.9 | 186.4 | 566.4 | 692.3 | 82% | 464.1 |
+| 2026Q3 | 230.4 | +117.8% | 10.3 | 198.6 | 691.0 | 723.8 | 95% | 528.0 |
 
 ### Per company, last 6 reported quarters ($bn)
 
@@ -25,34 +25,34 @@ Source: SEC 10-Q/10-K XBRL (cash-flow statement). Aggregate shown only for quart
 
 | Quarter | Period end | Capex | OCF | FCF | New fin. leases | Debt proceeds | Debt repaid | LT debt, non-current (end) |
 |---|---|---|---|---|---|---|---|---|
-| 2025Q1 | 2025-03-31 | 16.7 | 37.0 | 20.3 | 3.2 | n/a | n/a | 39.9 |
 | 2025Q2 | 2025-06-30 | 17.1 | 42.6 | 25.6 | 6.5 | n/a | n/a | 40.2 |
 | 2025Q3 | 2025-09-30 | 19.4 | 45.1 | 25.7 | 9.1 | n/a | n/a | 35.4 |
 | 2025Q4 | 2025-12-31 | 29.9 | 35.8 | 5.9 | 6.3 | n/a | n/a | 35.4 |
 | 2026Q1 | 2026-03-31 | 30.9 | 46.7 | 15.8 | 4.0 | n/a | n/a | 31.4 |
 | 2026Q2 | 2026-06-30 | 35.8 | 55.4 | 19.6 | 5.1 | n/a | n/a | 31.1 |
+| 2026Q3 | 2026-09-30 | 39.4 | 58.0 | 18.6 | 5.2 | n/a | n/a | 31.1 |
 
 **AMZN** (tags: capex=PaymentsToAcquirePropertyPlantAndEquipment+PaymentsToAcquireProductiveAssets, debt proceeds=ProceedsFromIssuanceOfLongTermDebt, LT debt=LongTermDebtNoncurrent)
 
 | Quarter | Period end | Capex | OCF | FCF | New fin. leases | Debt proceeds | Debt repaid | LT debt, non-current (end) |
 |---|---|---|---|---|---|---|---|---|
-| 2025Q1 | 2025-03-31 | 25.0 | 17.0 | -8.0 | 0.1 | 0.7 | 0.0 | 53.4 |
 | 2025Q2 | 2025-06-30 | 32.2 | 32.5 | 0.3 | 0.9 | 0.0 | 2.8 | 50.7 |
 | 2025Q3 | 2025-09-30 | 35.1 | 35.5 | 0.4 | 1.0 | 0.0 | 1.0 | 50.7 |
 | 2025Q4 | 2025-12-31 | 39.5 | 54.5 | 14.9 | 0.9 | 14.9 | 1.3 | 65.6 |
 | 2026Q1 | 2026-03-31 | 44.2 | 26.0 | -18.2 | 1.6 | 53.4 | 0.0 | 119.1 |
 | 2026Q2 | 2026-06-30 | 54.2 | 45.4 | -8.8 | 0.6 | 13.6 | 2.8 | 128.9 |
+| 2026Q3 | 2026-09-30 | 77.3 | 42.4 | -34.8 | 1.5 | 48.1 | 0.0 | 173.1 |
 
 **GOOGL** (tags: capex=PaymentsToAcquirePropertyPlantAndEquipment, debt proceeds=ProceedsFromDebtNetOfIssuanceCosts, LT debt=LongTermDebtNoncurrent)
 
 | Quarter | Period end | Capex | OCF | FCF | New fin. leases | Debt proceeds | Debt repaid | LT debt, non-current (end) |
 |---|---|---|---|---|---|---|---|---|
-| 2025Q1 | 2025-03-31 | 17.2 | 36.1 | 19.0 | 0.5 | 4.5 | n/a | 10.9 |
 | 2025Q2 | 2025-06-30 | 22.4 | 27.7 | 5.3 | 0.1 | 26.8 | n/a | 23.6 |
 | 2025Q3 | 2025-09-30 | 24.0 | 48.4 | 24.5 | 0.4 | 6.6 | n/a | 21.6 |
 | 2025Q4 | 2025-12-31 | 27.9 | 52.4 | 24.6 | 0.6 | 26.6 | n/a | 46.5 |
 | 2026Q1 | 2026-03-31 | 35.7 | 45.8 | 10.1 | 0.2 | 31.4 | n/a | 77.5 |
 | 2026Q2 | 2026-06-30 | 44.9 | 39.1 | -5.9 | 0.7 | 24.8 | n/a | 98.2 |
+| 2026Q3 | 2026-09-30 | 51.4 | 42.3 | -9.1 | 2.1 | 29.0 | n/a | 125.1 |
 
 **META** (tags: capex=PaymentsToAcquirePropertyPlantAndEquipment, debt proceeds=ProceedsFromIssuanceOfLongTermDebt+ProceedsFromDebtNetOfIssuanceCosts, LT debt=LongTermDebtNoncurrent)
 
@@ -87,26 +87,25 @@ Source: SEC 10-Q/10-K XBRL (income statement).
 | AVGO | 2025Q1: 15.0 (+20.2% YoY) | 2025Q2: 16.0 (+22.0% YoY) | 2025Q3: 18.0 (+28.2% YoY) | 2025Q4: 19.3 (+29.5% YoY) | 2026Q1: 22.2 (+47.9% YoY) | 2026Q2: 29.6 (+85.5% YoY) |
 | AMD | 2025Q1: 7.4 (+35.9% YoY) | 2025Q2: 7.7 (+31.7% YoY) | 2025Q3: 9.2 (+35.6% YoY) | 2025Q4: 10.3 (+34.1% YoY) | 2026Q1: 10.3 (+37.8% YoY) | 2026Q2: 11.5 (+50.1% YoY) |
 | MU | 2025Q2: 9.3 (+36.6% YoY) | 2025Q3: 11.3 (+46.0% YoY) | 2025Q4: 13.6 (+56.7% YoY) | 2026Q1: 23.9 (+196.3% YoY) | 2026Q2: 41.5 (+345.7% YoY) | 2026Q3: 54.2 (+379.3% YoY) |
-| VRT | 2025Q1: 2.0 (+24.2% YoY) | 2025Q2: 2.6 (+35.1% YoY) | 2025Q3: 2.7 (+29.0% YoY) | 2025Q4: 2.9 (+22.7% YoY) | 2026Q1: 2.6 (+30.1% YoY) | 2026Q2: 3.3 (+24.1% YoY) |
+| VRT | 2025Q2: 2.6 (+35.1% YoY) | 2025Q3: 2.7 (+29.0% YoY) | 2025Q4: 2.9 (+22.7% YoY) | 2026Q1: 2.6 (+30.1% YoY) | 2026Q2: 3.3 (+24.1% YoY) | 2026Q3: 4.3 (+61.2% YoY) |
 
 ## 3. Credit and rates (daily)
 Source: FRED (ICE BofA indices, Treasury, Kim-Wright term premium). Changes in bp.
 
 | Series | Latest | As of | Δ1w | Δ1m | Δ3m | Δ1y |
 |---|---|---|---|---|---|---|
-| IG corporate OAS (ICE BofA) | 0.91% | 2026-10-23 | +6bp | +14bp | +11bp | +13bp |
-| BBB OAS (ICE BofA) | 1.13% | 2026-10-23 | +7bp | +18bp | +14bp | +13bp |
-| HY OAS (ICE BofA) | 3.38% | 2026-10-23 | +7bp | +65bp | +59bp | +42bp |
-| 2y Treasury yield | 4.65% | 2026-10-22 | -12bp | -6bp | +28bp | +120bp |
-| 10y Treasury yield | 4.96% | 2026-10-22 | -14bp | +0bp | +25bp | +99bp |
-| 10y term premium (Kim-Wright) | 0.99% | 2026-10-16 | -9bp | +1bp | +21bp | +57bp |
+| IG corporate OAS (ICE BofA) | 0.94% | 2026-10-30 | +3bp | +10bp | +15bp | +17bp |
+| BBB OAS (ICE BofA) | 1.16% | 2026-10-30 | +3bp | +13bp | +17bp | +18bp |
+| HY OAS (ICE BofA) | 3.44% | 2026-10-30 | +6bp | +32bp | +59bp | +59bp |
+| 2y Treasury yield | 4.61% | 2026-10-29 | -4bp | -28bp | +38bp | +102bp |
+| 10y Treasury yield | 4.98% | 2026-10-29 | +2bp | -28bp | +30bp | +90bp |
+| 10y term premium (Kim-Wright) | 0.94% | 2026-10-23 | -5bp | -6bp | +10bp | +50bp |
 
 ## 4. Macro (quarterly / monthly)
 Source: BEA and BLS via FRED; Census construction spending via FRED.
 
 | Quarter start | Real GDP growth % SAAR | Contribution: info-processing equipment (pp) | Contribution: software (pp) | IT equip + software share of growth |
 |---|---|---|---|---|
-| 2024-07-01 | 3.2 | 0.37 | 0.05 | 13% |
 | 2024-10-01 | 2.4 | -0.06 | 0.13 | 3% |
 | 2025-01-01 | 0.1 | 0.87 | 0.45 | 1320% |
 | 2025-04-01 | 4.0 | 0.37 | 0.6 | 24% |
@@ -114,36 +113,37 @@ Source: BEA and BLS via FRED; Census construction spending via FRED.
 | 2025-10-01 | 0.2 | 0.67 | 0.05 | 360% |
 | 2026-01-01 | 2.5 | 0.79 | 0.6 | 56% |
 | 2026-04-01 | 2.2 | 0.19 | 0.33 | 24% |
-| Last 4 quarters, average | 2.20 | | | 0.75pp of 2.20% = 34% |
+| 2026-07-01 | 3.4 | 0.86 | 0.23 | 32% |
+| Last 4 quarters, average | 2.08 | | | 0.93pp of 2.08% = 45% |
 Single-quarter shares are noisy (a weak GDP quarter inflates them); the 4-quarter average is the steadier read.
 
 - Productivity (output/hour), 4-quarter change: +2.2% (quarter starting 2026-04-01); prior quarter: +2.9%
 - Electricity CPI, YoY: +4.0% (2026-09-01); 3 months earlier: +4.8%
-- Power construction spending, YoY: +8.5% (2026-08-01; level $186.0bn SAAR)
+- Power construction spending, YoY: +11.1% (2026-09-01; level $191.7bn SAAR)
 
 ## 5. Market
 Source: Yahoo Finance adjusted closes.
 
 | Symbol | Last | As of | 1w | 1m | 3m | 1y |
 |---|---|---|---|---|---|---|
-| SPY | 764.27 | 2026-10-26 | -0.3% | -0.9% | +3.7% | +14.1% |
-| RSP | 216.99 | 2026-10-26 | +1.7% | +2.8% | +1.2% | +15.3% |
-| SMH | 539.97 | 2026-10-26 | -1.5% | -11.0% | -1.6% | +54.3% |
-| XLU | 42.60 | 2026-10-26 | +3.0% | +7.8% | -6.1% | -4.1% |
-| QQQ | 711.28 | 2026-10-26 | -1.0% | -4.5% | +4.4% | +15.8% |
-| NVDA | 215.05 | 2026-10-26 | -0.9% | -4.5% | +9.6% | +15.7% |
-| MSFT | 529.43 | 2026-10-26 | -0.8% | +2.6% | +36.3% | +1.9% |
-| AMZN | 248.63 | 2026-10-26 | -5.3% | -0.4% | +7.5% | +10.9% |
-| GOOGL | 318.75 | 2026-10-26 | -7.4% | -7.3% | -2.3% | +23.0% |
-| META | 641.91 | 2026-10-26 | -9.0% | -14.6% | +8.2% | -12.8% |
-| ORCL | 125.75 | 2026-10-26 | -3.0% | -7.9% | +5.3% | -55.0% |
-| CRWV | 56.05 | 2026-10-26 | -8.3% | -36.0% | -20.8% | -57.7% |
+| SPY | 755.29 | 2026-11-02 | -1.3% | -1.9% | -0.1% | +11.9% |
+| RSP | 220.29 | 2026-11-02 | +1.4% | +5.0% | +1.8% | +19.1% |
+| SMH | 513.45 | 2026-11-02 | -5.2% | -18.6% | -5.9% | +41.9% |
+| XLU | 43.67 | 2026-11-02 | +2.6% | +9.7% | -0.8% | +0.8% |
+| QQQ | 685.59 | 2026-11-02 | -3.7% | -8.5% | -2.0% | +9.5% |
+| NVDA | 204.15 | 2026-11-02 | -5.5% | -12.7% | -1.1% | +1.1% |
+| MSFT | 512.45 | 2026-11-02 | -3.8% | -1.0% | +5.3% | -0.2% |
+| AMZN | 247.91 | 2026-11-02 | -0.5% | -1.4% | -12.7% | +1.5% |
+| GOOGL | 282.30 | 2026-11-02 | -10.9% | -17.8% | -24.4% | +0.7% |
+| META | 610.88 | 2026-11-02 | -3.1% | -16.1% | +3.6% | -5.5% |
+| ORCL | 120.26 | 2026-11-02 | -4.6% | -15.2% | -14.9% | -53.6% |
+| CRWV | 50.87 | 2026-11-02 | -7.8% | -43.2% | -40.7% | -62.0% |
 
 Relative performance, indexed to 100 one year ago (above 100 = beat SPY over the year):
-- SMH/SPY: 135.2 (one month ago 150.5)
-- RSP/SPY: 101.1 (one month ago 97.4)
-- XLU/SPY: 84.1 (one month ago 77.2)
-- Hyperscalers/SPY: 78.3 (one month ago 82.8)
+- SMH/SPY: 126.8 (one month ago 152.8)
+- RSP/SPY: 106.4 (one month ago 99.4)
+- XLU/SPY: 90.1 (one month ago 80.6)
+- Hyperscalers/SPY: 76.8 (one month ago 85.0)
 
 ## Data status
 All sources OK.
